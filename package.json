@@ -2,7 +2,7 @@
   "name": "front_practice_movie_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://typeyu.github.io/movie_app",
+  "homepage": "https://typeyu.github.io/front_practice_movie_app",
   "type": "module",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
