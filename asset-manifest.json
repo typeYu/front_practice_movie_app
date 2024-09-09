@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/movie_app/static/css/main.cfc8525b.css",
-    "main.js": "/movie_app/static/js/main.3e8b0557.js",
-    "static/js/453.b3a61785.chunk.js": "/movie_app/static/js/453.b3a61785.chunk.js",
-    "index.html": "/movie_app/index.html",
-    "main.cfc8525b.css.map": "/movie_app/static/css/main.cfc8525b.css.map",
-    "main.3e8b0557.js.map": "/movie_app/static/js/main.3e8b0557.js.map",
-    "453.b3a61785.chunk.js.map": "/movie_app/static/js/453.b3a61785.chunk.js.map"
+    "main.css": "/front_practice_movie_app/static/css/main.cfc8525b.css",
+    "main.js": "/front_practice_movie_app/static/js/main.70e61ba2.js",
+    "static/js/453.b3a61785.chunk.js": "/front_practice_movie_app/static/js/453.b3a61785.chunk.js",
+    "index.html": "/front_practice_movie_app/index.html",
+    "main.cfc8525b.css.map": "/front_practice_movie_app/static/css/main.cfc8525b.css.map",
+    "main.70e61ba2.js.map": "/front_practice_movie_app/static/js/main.70e61ba2.js.map",
+    "453.b3a61785.chunk.js.map": "/front_practice_movie_app/static/js/453.b3a61785.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cfc8525b.css",
-    "static/js/main.3e8b0557.js"
+    "static/js/main.70e61ba2.js"
   ]
 }
